@@ -1,0 +1,46 @@
+F:\Csharp\LibrarySystemManagement\bin\Debug\LibrarySystemManagement.exe.config
+F:\Csharp\LibrarySystemManagement\bin\Debug\LibrarySystemManagement.exe
+F:\Csharp\LibrarySystemManagement\bin\Debug\LibrarySystemManagement.pdb
+F:\Csharp\LibrarySystemManagement\obj\Debug\LibrarySystemManagement.csproj.AssemblyReference.cache
+F:\Csharp\LibrarySystemManagement\obj\Debug\LibrarySystemManagement.csproj.SuggestedBindingRedirects.cache
+F:\Csharp\LibrarySystemManagement\obj\Debug\LibrarySystemManagement.Form1.resources
+F:\Csharp\LibrarySystemManagement\obj\Debug\LibrarySystemManagement.Properties.Resources.resources
+F:\Csharp\LibrarySystemManagement\obj\Debug\LibrarySystemManagement.csproj.GenerateResource.cache
+F:\Csharp\LibrarySystemManagement\obj\Debug\LibrarySystemManagement.csproj.CoreCompileInputs.cache
+F:\Csharp\LibrarySystemManagement\obj\Debug\LibrarySystemManagement.exe
+F:\Csharp\LibrarySystemManagement\obj\Debug\LibrarySystemManagement.pdb
+F:\c#\BTL\New folder\LibraryManagementSystem-master\bin\Debug\LibrarySystemManagement.exe.config
+F:\c#\BTL\New folder\LibraryManagementSystem-master\bin\Debug\LibrarySystemManagement.exe
+F:\c#\BTL\New folder\LibraryManagementSystem-master\bin\Debug\LibrarySystemManagement.pdb
+F:\c#\BTL\New folder\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.csproj.AssemblyReference.cache
+F:\c#\BTL\New folder\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.csproj.SuggestedBindingRedirects.cache
+F:\c#\BTL\New folder\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.Form1.resources
+F:\c#\BTL\New folder\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.Properties.Resources.resources
+F:\c#\BTL\New folder\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.csproj.GenerateResource.cache
+F:\c#\BTL\New folder\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.csproj.CoreCompileInputs.cache
+F:\c#\BTL\New folder\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.exe
+F:\c#\BTL\New folder\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.pdb
+F:\c#\BTL\New folder\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.NewFolder1.RoundedTextBox.resources
+C:\Users\Dell\Downloads\btnhomlttq\bin\Debug\LibrarySystemManagement.exe.config
+C:\Users\Dell\Downloads\btnhomlttq\bin\Debug\LibrarySystemManagement.exe
+C:\Users\Dell\Downloads\btnhomlttq\bin\Debug\LibrarySystemManagement.pdb
+C:\Users\Dell\Downloads\btnhomlttq\obj\Debug\LibrarySystemManagement.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\btnhomlttq\obj\Debug\LibrarySystemManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Downloads\btnhomlttq\obj\Debug\LibrarySystemManagement.Form1.resources
+C:\Users\Dell\Downloads\btnhomlttq\obj\Debug\LibrarySystemManagement.NewFolder1.RoundedTextBox.resources
+C:\Users\Dell\Downloads\btnhomlttq\obj\Debug\LibrarySystemManagement.Properties.Resources.resources
+C:\Users\Dell\Downloads\btnhomlttq\obj\Debug\LibrarySystemManagement.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\btnhomlttq\obj\Debug\LibrarySystemManagement.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\btnhomlttq\obj\Debug\LibrarySystemManagement.exe
+C:\Users\Dell\Downloads\btnhomlttq\obj\Debug\LibrarySystemManagement.pdb
+F:\Downloads\btnhomlttq\bin\Debug\LibrarySystemManagement.exe.config
+F:\Downloads\btnhomlttq\bin\Debug\LibrarySystemManagement.exe
+F:\Downloads\btnhomlttq\bin\Debug\LibrarySystemManagement.pdb
+F:\Downloads\btnhomlttq\obj\Debug\LibrarySystemManagement.csproj.AssemblyReference.cache
+F:\Downloads\btnhomlttq\obj\Debug\LibrarySystemManagement.Form1.resources
+F:\Downloads\btnhomlttq\obj\Debug\LibrarySystemManagement.NewFolder1.RoundedTextBox.resources
+F:\Downloads\btnhomlttq\obj\Debug\LibrarySystemManagement.Properties.Resources.resources
+F:\Downloads\btnhomlttq\obj\Debug\LibrarySystemManagement.csproj.GenerateResource.cache
+F:\Downloads\btnhomlttq\obj\Debug\LibrarySystemManagement.csproj.CoreCompileInputs.cache
+F:\Downloads\btnhomlttq\obj\Debug\LibrarySystemManagement.exe
+F:\Downloads\btnhomlttq\obj\Debug\LibrarySystemManagement.pdb
