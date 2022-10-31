@@ -1,0 +1,59 @@
+F:\Csharp\LibrarySystemManagement\bin\Debug\LibrarySystemManagement.exe.config
+F:\Csharp\LibrarySystemManagement\bin\Debug\LibrarySystemManagement.exe
+F:\Csharp\LibrarySystemManagement\bin\Debug\LibrarySystemManagement.pdb
+F:\Csharp\LibrarySystemManagement\obj\Debug\LibrarySystemManagement.csproj.AssemblyReference.cache
+F:\Csharp\LibrarySystemManagement\obj\Debug\LibrarySystemManagement.csproj.SuggestedBindingRedirects.cache
+F:\Csharp\LibrarySystemManagement\obj\Debug\LibrarySystemManagement.Form1.resources
+F:\Csharp\LibrarySystemManagement\obj\Debug\LibrarySystemManagement.Properties.Resources.resources
+F:\Csharp\LibrarySystemManagement\obj\Debug\LibrarySystemManagement.csproj.GenerateResource.cache
+F:\Csharp\LibrarySystemManagement\obj\Debug\LibrarySystemManagement.csproj.CoreCompileInputs.cache
+F:\Csharp\LibrarySystemManagement\obj\Debug\LibrarySystemManagement.exe
+F:\Csharp\LibrarySystemManagement\obj\Debug\LibrarySystemManagement.pdb
+F:\c#\BTL\New folder\LibraryManagementSystem-master\bin\Debug\LibrarySystemManagement.exe.config
+F:\c#\BTL\New folder\LibraryManagementSystem-master\bin\Debug\LibrarySystemManagement.exe
+F:\c#\BTL\New folder\LibraryManagementSystem-master\bin\Debug\LibrarySystemManagement.pdb
+F:\c#\BTL\New folder\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.csproj.AssemblyReference.cache
+F:\c#\BTL\New folder\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.csproj.SuggestedBindingRedirects.cache
+F:\c#\BTL\New folder\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.Form1.resources
+F:\c#\BTL\New folder\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.Properties.Resources.resources
+F:\c#\BTL\New folder\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.csproj.GenerateResource.cache
+F:\c#\BTL\New folder\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.csproj.CoreCompileInputs.cache
+F:\c#\BTL\New folder\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.exe
+F:\c#\BTL\New folder\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.pdb
+F:\c#\BTL\New folder\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.NewFolder1.RoundedTextBox.resources
+F:\_subject\Lập trình trực quan\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.csproj.AssemblyReference.cache
+F:\_subject\Lập trình trực quan\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.Form1.resources
+F:\_subject\Lập trình trực quan\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.NewFolder1.RoundedTextBox.resources
+F:\_subject\Lập trình trực quan\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.Properties.Resources.resources
+F:\_subject\Lập trình trực quan\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.csproj.GenerateResource.cache
+F:\_subject\Lập trình trực quan\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.csproj.CoreCompileInputs.cache
+F:\_subject\Lập trình trực quan\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.exe
+F:\_subject\Lập trình trực quan\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.pdb
+F:\_subject\Lập trình trực quan\LibraryManagementSystem-master\bin\Debug\LibrarySystemManagement.exe.config
+F:\_subject\Lập trình trực quan\LibraryManagementSystem-master\bin\Debug\LibrarySystemManagement.exe
+F:\_subject\Lập trình trực quan\LibraryManagementSystem-master\bin\Debug\LibrarySystemManagement.pdb
+F:\c#\BTL\New folder (2)\LibraryManagementSystem-master\bin\Debug\LibrarySystemManagement.exe.config
+F:\c#\BTL\New folder (2)\LibraryManagementSystem-master\bin\Debug\LibrarySystemManagement.exe
+F:\c#\BTL\New folder (2)\LibraryManagementSystem-master\bin\Debug\LibrarySystemManagement.pdb
+F:\c#\BTL\New folder (2)\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.csproj.AssemblyReference.cache
+F:\c#\BTL\New folder (2)\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.csproj.SuggestedBindingRedirects.cache
+F:\c#\BTL\New folder (2)\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.Form1.resources
+F:\c#\BTL\New folder (2)\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.NewFolder1.RoundedTextBox.resources
+F:\c#\BTL\New folder (2)\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.Properties.Resources.resources
+F:\c#\BTL\New folder (2)\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.csproj.GenerateResource.cache
+F:\c#\BTL\New folder (2)\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.csproj.CoreCompileInputs.cache
+F:\c#\BTL\New folder (2)\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.exe
+F:\c#\BTL\New folder (2)\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.pdb
+F:\c#\BTL\New folder (2)\LibraryManagementSystem-master\obj\Debug\LibrarySystemManagement.Form2.resources
+F:\Downloads\LibraryManagementSystem-master-huan\bin\Debug\LibrarySystemManagement.exe.config
+F:\Downloads\LibraryManagementSystem-master-huan\bin\Debug\LibrarySystemManagement.exe
+F:\Downloads\LibraryManagementSystem-master-huan\bin\Debug\LibrarySystemManagement.pdb
+F:\Downloads\LibraryManagementSystem-master-huan\obj\Debug\LibrarySystemManagement.csproj.AssemblyReference.cache
+F:\Downloads\LibraryManagementSystem-master-huan\obj\Debug\LibrarySystemManagement.Form1.resources
+F:\Downloads\LibraryManagementSystem-master-huan\obj\Debug\LibrarySystemManagement.Form2.resources
+F:\Downloads\LibraryManagementSystem-master-huan\obj\Debug\LibrarySystemManagement.NewFolder1.RoundedTextBox.resources
+F:\Downloads\LibraryManagementSystem-master-huan\obj\Debug\LibrarySystemManagement.Properties.Resources.resources
+F:\Downloads\LibraryManagementSystem-master-huan\obj\Debug\LibrarySystemManagement.csproj.GenerateResource.cache
+F:\Downloads\LibraryManagementSystem-master-huan\obj\Debug\LibrarySystemManagement.csproj.CoreCompileInputs.cache
+F:\Downloads\LibraryManagementSystem-master-huan\obj\Debug\LibrarySystemManagement.exe
+F:\Downloads\LibraryManagementSystem-master-huan\obj\Debug\LibrarySystemManagement.pdb
